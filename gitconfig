@@ -1,0 +1,16 @@
+[alias]
+	a = add .
+	co = checkout
+	com = checkout master
+	coh = checkout homolog
+	br = branch
+	ci = commit -am 
+	st = status
+	ps = push
+	pl = pull
+	psm = push origin master
+	psh = push origin homolog
+	plm = pull origin master
+	plh = pull origin homolog
+	mgm = merge master
+	mgh = merge homolog
