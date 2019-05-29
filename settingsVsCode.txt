@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 0,
     "window.restoreWindows": "all",
     "explorer.confirmDelete": false,
     "liveServer.settings.port": 5500,
@@ -9,24 +9,26 @@
     "breadcrumbs.enabled": true,
     "explorer.confirmDragAndDrop": false,
     "terminal.external.windowsExec": "C:\\cmder\\Cmder.exe",
-   "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\cmd.exe",
-"terminal.integrated.shellArgs.windows": [
-    "/K",
-    "C:\\cmder\\vendor\\init.bat"
-],
-"typescript.updateImportsOnFileMove.enabled": "always",
-"[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-},
-"editor.renderWhitespace": "all",
-"workbench.iconTheme": "material-icon-theme",
-"editor.fontWeight": "bold",
-"files.autoSave": "afterDelay",
-"workbench.colorCustomizations": {
-    "editor.background": "#201842",
-},
-"workbench.colorTheme": "Shades of Purple",
-"[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
-}
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "C:\\cmder\\vendor\\init.bat"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontWeight": "bold",
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+        "editor.background": "#201842",
+    },
+    "workbench.colorTheme": "Shades of Purple",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "javascript.preferences.quoteStyle":"single",
+    "typescript.preferences.quoteStyle": "single"
 }
